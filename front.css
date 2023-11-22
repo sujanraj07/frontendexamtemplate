@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    border:5px solid
+}
+
+.child1{
+    width: 100%;
+    background-color: rgb(42, 2, 64);
+    color: white;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+#id1{
+    text-align: center;
+}
+
+.child2{
+    width: 100%;
+}
